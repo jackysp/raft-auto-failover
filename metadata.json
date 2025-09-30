@@ -1,0 +1,5 @@
+{
+  "name": "TiKV Raft Failover Animator",
+  "description": "A web application that provides an animated visualization of the Raft consensus algorithm's auto-failover process in a distributed TiKV and PD cluster.",
+  "requestFramePermissions": []
+}
